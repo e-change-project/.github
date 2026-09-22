@@ -58,7 +58,7 @@ The repositories maintained by the E-CHANGE project will include:
 
 Further information about the project, its activities, team, and research outputs is available on the official E-CHANGE website:
 
-**[E-CHANGE official website](https://sites.google.com/view/e-changeproject/home)**
+**[E-CHANGE official website](https://sites.google.com/view/e-changeproject/home-en)**
 
 ---
 
